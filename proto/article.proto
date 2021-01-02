@@ -1,0 +1,46 @@
+syntax = "proto3";
+
+package proto;
+
+service ArticleService {
+  rpc AddArticle(AddArticleRequest) returns (AddArticleResponse) {}
+  rpc GetArticles(GetArticlesRequest) returns (GetArticlesResponse) {}
+  rpc GetArticle(GetArticleRequest) returns (GetArticleResponse) {}
+  rpc DeleteArticle(DeleteArticleRequest) returns (DeleteArticleResponse) {}
+}
+
+message AddArticleRequest {
+  string id = 1;
+  string title = 2;
+  string content = 3;
+}
+
+message AddArticleResponse {
+  string response = 1;
+}
+
+message GetArticlesRequest {}
+
+message Article {
+  string id = 1;
+  string title = 2;
+  string content = 3;
+}
+message GetArticlesResponse {
+  repeated Article articles = 1;
+}
+
+message GetArticleRequest {
+  string id = 1;
+}
+message GetArticleResponse {
+  Article article = 1;
+}
+
+message DeleteArticleRequest {
+  string id = 1;
+}
+
+message DeleteArticleResponse {
+  string response = 1;
+}

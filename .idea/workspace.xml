@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e20e96b3-e5d6-4006-aeb6-c8d12f8b3e04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1lF3VNLyskuVrFjl3WuQ6ycW4Et" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\go\awesomeProject1\pkg" />
+      <recent name="C:\workspace\go\awesomeProject1\cmd\client" />
+      <recent name="C:\workspace\go\awesomeProject1\pkg\transport" />
+      <recent name="C:\workspace\go\awesomeProject1\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/emilg02/gocrud/cmd/server">
+    <configuration name="go build awesomeProject1/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/emilg02/gocrud/cmd/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/server/server.go" />
+      <package value="github.com/emilg02/gocrud/cmd/server" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/emilg02/gotest/cmd/client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="get" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/client/main.go" />
+      <package value="github.com/emilg02/gotest/cmd/client" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/emilg02/gotest/cmd/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/server/server.go" />
+      <package value="github.com/emilg02/gotest/cmd/server" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="debug" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/db" />
+      <filePath value="$PROJECT_DIR$/db/memory_test.go|$PROJECT_DIR$/db/memory.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test db" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$/db" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/emilg02/gotest" />
+      <directory value="$PROJECT_DIR$/db" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build awesomeProject1/" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build github.com/emilg02/gotest/cmd/server" />
+      <item itemvalue="Go Build.go build github.com/emilg02/gotest/cmd/client" />
+      <item itemvalue="Go Test.debug" />
+      <item itemvalue="Go Test.go test db" />
+      <item itemvalue="Go Build.go build github.com/emilg02/gocrud/cmd/server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/emilg02/gocrud/cmd/server" />
+        <item itemvalue="Go Build.go build github.com/emilg02/gotest/cmd/server" />
+        <item itemvalue="Go Build.go build github.com/emilg02/gotest/cmd/client" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Test.go test db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="46" width="1092" height="994" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609441796544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="442" y="46" width="1092" height="994" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609441796544" />
+    <state x="713" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609069192931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609069192931" />
+    <state x="715" y="223" key="#xdebugger.evaluate" timestamp="1608566263083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="223" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608566263083" />
+    <state x="2773" y="380" key="EnvironmentVariablesDialog" timestamp="1608136898881">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2773" y="380" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608136898881" />
+    <state x="2660" y="319" key="FileChooserDialogImpl" timestamp="1609165317766">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="319" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609080724852" />
+    <state x="2660" y="319" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1609165317766" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1609589589162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609518514639" />
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608192185470" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608101173609" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609589589162" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1609589589162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609518514639" />
+    <state width="1877" height="293" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608192185469" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608101173609" />
+    <state width="938" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609589589162" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1609589589162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609518514639" />
+    <state width="1877" height="293" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608192185469" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608101173609" />
+    <state width="938" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609589589162" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1609589589162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609518514639" />
+    <state width="1877" height="293" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608192185469" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608101173609" />
+    <state width="938" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609589589162" />
+    <state width="938" height="293" key="GridCell.Tab.1.bottom" timestamp="1609516329872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609516329872" />
+    <state width="1877" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608192185470" />
+    <state width="1877" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608100149073" />
+    <state width="938" height="293" key="GridCell.Tab.1.center" timestamp="1609516329872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="293" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609516329872" />
+    <state width="1877" height="293" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608192185470" />
+    <state width="1877" height="293" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608100149072" />
+    <state width="938" height="293" key="GridCell.Tab.1.left" timestamp="1609516329872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="293" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609516329872" />
+    <state width="1877" height="293" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608192185470" />
+    <state width="1877" height="293" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608100149072" />
+    <state width="938" height="293" key="GridCell.Tab.1.right" timestamp="1609516329872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="293" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609516329872" />
+    <state width="1877" height="293" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608192185470" />
+    <state width="1877" height="293" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608100149072" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1608137185577">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608059395593" />
+    <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608137185577" />
+    <state x="512" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607971653961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="512" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607971653961" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1609589521613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609589521613" />
+    <state x="803" y="281" key="refactoring.ChangeSignatureDialog" timestamp="1608565076997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="281" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608565076997" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609428011411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609428011411" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608137183198" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608100714531" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609267062981" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/client/client.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/client/client.go</url>
+          <line>65</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/awesomeProject1$TestMemory_Update_in_github_com_emilg02_gotest_db.out" NAME="TestMemory_Update in github.com/emilg02/gotest/db Coverage Results" MODIFIED="1608569219076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/awesomeProject1$go_test_db.out" NAME="go test db Coverage Results" MODIFIED="1608569249636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
