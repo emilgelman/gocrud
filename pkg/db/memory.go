@@ -2,7 +2,7 @@ package db
 
 import (
 	"errors"
-	"github.com/emilg02/gocrud/pkg/domain"
+	"github.com/emilgelman/gocrud/pkg/domain"
 )
 
 

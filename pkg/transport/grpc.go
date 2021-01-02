@@ -3,9 +3,9 @@ package transport
 import (
 	"context"
 	"fmt"
-	"github.com/emilg02/gocrud/pkg/db"
-	"github.com/emilg02/gocrud/pkg/domain"
-	"github.com/emilg02/gocrud/proto"
+	"github.com/emilgelman/gocrud/pkg/db"
+	"github.com/emilgelman/gocrud/pkg/domain"
+	"github.com/emilgelman/gocrud/proto"
 	"google.golang.org/grpc"
 	"log"
 	"net"

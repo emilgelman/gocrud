@@ -1,4 +1,4 @@
-module github.com/emilg02/gocrud
+module github.com/emilgelman/gocrud
 
 go 1.15
 

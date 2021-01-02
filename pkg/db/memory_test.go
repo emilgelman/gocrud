@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/emilg02/gocrud/pkg/domain"
+	"github.com/emilgelman/gocrud/pkg/domain"
 	"reflect"
 	"testing"
 )

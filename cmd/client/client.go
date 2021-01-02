@@ -4,7 +4,7 @@ import (
 	"context"
 	"flag"
 	"fmt"
-	"github.com/emilg02/gocrud/proto"
+	"github.com/emilgelman/gocrud/proto"
 	"google.golang.org/grpc"
 	"log"
 	"os"

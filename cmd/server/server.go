@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/emilg02/gocrud/pkg/db"
-	"github.com/emilg02/gocrud/pkg/domain"
-	"github.com/emilg02/gocrud/pkg/transport"
+	"github.com/emilgelman/gocrud/pkg/db"
+	"github.com/emilgelman/gocrud/pkg/domain"
+	"github.com/emilgelman/gocrud/pkg/transport"
 	"log"
 	"os"
 	"os/signal"
