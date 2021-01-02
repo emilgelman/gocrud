@@ -6,9 +6,9 @@ A basic application implementing CRUD operations on "Articles"
 gRPC client API: 
 
 get  
-get --id <id>  
-delete --id <id>  
-create --id <id> --title <title> --content <content>  
+get --id `id`  
+delete --id `id`  
+create --id `id` --title `<title>` --content `content`  
 
 REST API:
 
